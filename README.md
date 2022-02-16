@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @pierreluvigny
-- Web Developer
+- Web Developer (Full Stack)
+- I work especially with the javascript language.
