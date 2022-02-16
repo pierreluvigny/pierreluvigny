@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @pierreluvigny
 - Web Developer (Full Stack)
 - I work especially with the javascript language.
+- Although I consider coding to be poetry, my passion flares up for the front-end side of the web.
